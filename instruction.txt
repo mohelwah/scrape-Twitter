@@ -1,0 +1,14 @@
+اتبع الخطوات كما في الصور:
+تحميل البرنامج التالي يشمل بايثون
+1- download conda:
+
+https://www.anaconda.com/products/distribution
+
+حتي الوصل لرقم 6
+
+تحميل البرنامج التالي صورة رقم 6
+2- install twint:
+
+pip3 install --user --upgrade "git+https://github.com/twintproject/twint.git@origin/master#egg=twint"
+
+
